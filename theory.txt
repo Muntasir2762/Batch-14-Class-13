@@ -1,0 +1,7 @@
+==========Color System========
+
+1. Color By Name
+2. Color By Hex Code
+3. Color By RGB (Red Green Blue)
+4. Color By RGBA (Red Green Blue Alpha)
+5. Color By Linear Gradient (background/ background-image) (left, right, top, bottom)
